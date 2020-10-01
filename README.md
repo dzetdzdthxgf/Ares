@@ -1,4 +1,4 @@
-# Ares
+# Ares 0cq
 
 Ares is a Python Remote Access Tool.
 
@@ -13,7 +13,7 @@ The Web interface can be run on any server running Python. The agent can be comp
 
 ## Setup
 
-Install the Python requirements:
+Install and update the Python requirements:
 
 ```
 pip install -r requirements.txt
@@ -116,7 +116,7 @@ Takes a screenshot.
 python <command|file>
 Runs a Python command or local file.
 
-persist
+desopitr
 Installs the agent.
 
 clean
